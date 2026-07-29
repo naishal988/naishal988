@@ -31,7 +31,6 @@
       <h3>👨‍💻 About Me & Projects</h3>
       <ul>
         <li>🐧 Daily driving <b>Linux Mint XFCE</b> and experimenting with system workflows.</li>
-        <li>🚀 Building backend automations, including a custom Instagram direct messaging system using <b>Python & Flask</b> to handle developer webhooks.</li>
         <li>✍️ Writing about cybersecurity awareness. I analyze fake look-alike domains and expose phishing scams. Check out my articles on Medium and Hashnode!</li>
       </ul>
     </td>
