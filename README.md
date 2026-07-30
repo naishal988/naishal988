@@ -1,6 +1,12 @@
-<h1 align="left">Hi 👋! I'm Naishal</h1>
-<h3 align="left">B.Tech Cybersecurity Student | Python & C Programmer | Security Researcher & Blogger</h3>
+<!-- naisha1988 / README.md -->
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=Edit&logo=&label=&color=&logoColor=&labelColor=&style=for-the-badge" alt="Edit Icon" height="20" />
+</div>
 
+<h1 align="left">Hi 👋! I'm Naishal</h1>
+<h3 align="left">B.Tech Cybersecurity Student | Python & C Programmer | Security Researcher & Blogger | Backend Developer</h3>
+
+<br>
 
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
@@ -17,13 +23,24 @@
 
 <br>
 
+<!-- About Me with Styling and explicit Role call-outs -->
 <table width="100%" style="border: none;">
   <tr>
     <td width="70%">
       <h3>👨‍💻 About Me & Major Initiatives</h3>
       <ul>
         <li>🐧 Daily driving **Linux Mint XFCE** and optimizing system-level workflows.</li>
-        <li>🛡️ Engineer of **PhishGuard ZK**, my custom-built solution developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</li>
+        <li>🛡️ **Project: PhishGuard ZK**
+          <ul>
+            <li>*A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.*</li>
+            <li>**Roles:**
+              <ul>
+                <li>Naishal - **Backend Developer**</li>
+                <li>Sruthika - **Front-end Developer**</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
         <li>🚀 Actively progressing **Nexus**, an upcoming project. I allocate dedicated, highly focused daily blocks for its progression.</li>
         <li>✍️ Committed to security awareness, I publish detailed research, tool deep dives, and analysis on both **Medium** and Hashnode. Check out my latest work.</li>
       </ul>
@@ -44,8 +61,7 @@
   <a href="mailto:naishalpnadiya988@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  
-  <a href="https://medium.com/@naishal988" target="_blank">
+  <a href="https://naishal988.medium.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
   <a href="https://www.youtube.com/@THENAISHAL988" target="_blank">
