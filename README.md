@@ -10,7 +10,8 @@
 
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://raw.githubusercontent.com/Dmitriy-Andreev/logos/master/logos/security/kali_backtrack.png" height="35" alt="kali backtrack logo" />
+  <img src="kali-logo.png" height="35" alt="kali linux logo" />
+  <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
