@@ -10,7 +10,7 @@
 
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://jsdelivr.net" height="35" alt="kali logo" />
+  <img src="https://jsdelivr.net/gh/devicons/devicon/icons/python/kali-original.svg" height="35" alt="kali logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
