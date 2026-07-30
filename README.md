@@ -32,8 +32,8 @@
         <li>🐧 Daily driving Linux Mint XFCE and optimizing system-level workflows.</li>
         <li>🛡️ Project: PhishGuard ZK
           <ul>
-            <li>*A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.*</li>
-            <li>**Roles
+            <li>A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</li>
+            <li>Roles
               <ul>
                 <li>Naishal - Backend Developer</li>
                 <li>Sruthika - Front-end Developer</li>
@@ -42,7 +42,7 @@
           </ul>
         </li>
         <li>🚀 Actively progressing Nexus an upcoming project. I allocate dedicated, highly focused daily blocks for its progression.</li>
-        <li>✍️ Committed to security awareness, I publish detailed research, tool deep dives, and analysis on both **Medium** and Hashnode. Check out my latest work.</li>
+        <li>✍️ Committed to security awareness, I publish detailed research, tool deep dives, and analysis on both Medium and Hashnode. Check out my latest work.</li>
       </ul>
     </td>
     <td width="30%" align="center">
