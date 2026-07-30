@@ -78,5 +78,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naishal988/naishal988/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/naishal988/naishal988/snake-output/snake.svg?theme=dracula" alt="Snake animation" />
 </div>
