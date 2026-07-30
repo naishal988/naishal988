@@ -1,14 +1,6 @@
 <h1 align="left">Hi 👋! I'm Naishal</h1>
 <h3 align="left">B.Tech Cybersecurity Student | Python & C Programmer | Security Researcher & Blogger</h3>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naishal988&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naishal988&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<br>
 
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
