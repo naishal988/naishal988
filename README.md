@@ -1,17 +1,17 @@
-<!-- naisha1988 / README.md -->
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Edit&logo=&label=&color=&logoColor=&labelColor=&style=for-the-badge" alt="Edit Icon" height="20" />
+<!-- naishal988 / README.md -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1c1c1c&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal&descAlignY=51&descAlign=62"/>
 </div>
 
-<h1 align="left">Hi 👋! I'm Naishal</h1>
-<h3 align="left">B.Tech Cybersecurity Student | Python & C Programmer | Security Researcher & Blogger | Backend Developer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Python+%26+C+Programmer;Security+Researcher+%26+Blogger;Backend+Developer" alt="Typing SVG" />
+</h3>
 
 <br>
 
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
   <img src="kali-logo.png" height="35" alt="kali linux logo" />
-  <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
   <img width="12" />
@@ -53,6 +53,13 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <h3>📊 GitHub Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naishal988&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
 
 <br>
 
