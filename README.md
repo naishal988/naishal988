@@ -43,7 +43,8 @@
         <p><strong>🤝 Co-Developer:</strong> Sruthika (Frontend)</p>
       </td>
       <td valign="top" width="50%">
-        <h4><img src="logo.png" height="50" alt="Nexus Logo" style="vertical-align: middle;"/> Nexus</h4>
+        <h3>Nexus</h3>
+        <h4><img src="logo.png" height="50" alt="Nexus Logo" style="vertical-align: middle;"/</h4>
         <p>A premium, minimal, and highly intuitive document creation app heavily inspired by Apple Pages. Designed as a top-tier freeware alternative to compete with major word processors.</p>
         <p><strong>👨‍💻 My Role:</strong> Founder & Lead Dev (In Partnership with Sruthika)</p>
         <p><strong>🔒 Status:</strong> Active Development (Closed-Source Freeware)</p>
