@@ -1,7 +1,6 @@
 <!-- naishal988 / README.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1c1c1c&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal&descAlignY=51&descAlign=62"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal&descAlignY=51&descAlign=62"/>div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Python+%26+C+Programmer;Security+Researcher+%26+Blogger;Backend+Developer" alt="Typing SVG" />
@@ -32,7 +31,7 @@
     <td width="70%">
       <h3>👨‍💻 About Me & Major Initiatives</h3>
       <ul>
-        <li>🐧 Daily driving Linux Mint XFCE and optimizing system-level workflows.</li>
+        <li>🐧 Daily driving Linux Mint Cinnamon and optimizing system-level workflows.</li>
         <li>🛡️ Project: PhishGuard ZK
           <ul>
             <li>A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</li>
