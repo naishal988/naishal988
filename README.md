@@ -1,9 +1,10 @@
 <!-- naishal988 / README.md -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal&descAlignY=51&descAlign=62"/>
+</div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Python+%26+C+Programmer;Security+Researcher+%26+Blogger;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Python+%26+C+Programmer;Security+Researcher+%26+Blogger;Backend+Developer" alt="Typing SVG" />
 </h3>
 
 <br>
