@@ -9,6 +9,51 @@
 
 <br>
 
+<!-- About Me with Clean Card Layout -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="70%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 B.Tech Student specializing in <strong>Cybersecurity</strong></li>
+        <li>💻 <strong>Backend Developer</strong> focusing on secure and scalable architecture</li>
+        <li>🐧 Daily driving <strong>Linux Mint Cinnamon</strong> and optimizing system-level workflows</li>
+        <li>🐍 Coding primarily in <strong>Python & C</strong></li>
+        <li>✍️ Committed to security awareness, publishing research and tool deep-dives on <strong>Medium</strong> & <strong>Hashnode</strong></li>
+        <li>📫 Reach me at: <strong><a href="mailto:naishalpnadiya988@gmail.com">naishalpnadiya988@gmail.com</a></strong></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBzOGtjb2FtMTh2cG9ncGU4ZjVqNzI3NDBpbXg0ZXY4cGh3ZmV4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRbqgK5udZevNE4/giphy.gif" alt="Hacker GIF" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Featured Projects Structured like Sruthika's -->
+<div align="center">
+  <h3>🚀 Major Initiatives & Projects</h3>
+  <table width="100%">
+    <tr>
+      <td valign="top" width="50%">
+        <h4>🛡️ PhishGuard ZK</h4>
+        <p>A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</p>
+        <p><strong>👨‍💻 My Role:</strong> Backend Developer</p>
+        <p><strong>🤝 Co-Developer:</strong> Sruthika (Frontend)</p>
+      </td>
+      <td valign="top" width="50%">
+        <h4>🌌 Nexus</h4>
+        <p>A premium, minimal, and highly intuitive document creation app heavily inspired by Apple Pages. Designed as a top-tier freeware alternative to compete with major word processors.</p>
+        <p><strong>👨‍💻 My Role:</strong> Founder & Lead Dev (In Partnership with Sruthika)</p>
+        <p><strong>🔒 Status:</strong> Active Development (Closed-Source Freeware)</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 <div align="left">
   <h3>🛠️ Tech Stack & Tools</h3>
   <img src="kali-logo.png" height="35" alt="kali linux logo" />
@@ -23,36 +68,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
 </div>
-
-<br>
-
-<!-- About Me with Styling and explicit Role call-outs -->
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="70%">
-      <h3>👨‍💻 About Me & Major Initiatives</h3>
-      <ul>
-        <li>🐧 Daily driving Linux Mint Cinnamon and optimizing system-level workflows.</li>
-        <li>🛡️ Project: PhishGuard ZK
-          <ul>
-            <li>A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</li>
-            <li>Roles
-              <ul>
-                <li>Naishal - Backend Developer</li>
-                <li>Sruthika - Front-end Developer</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>🚀 Actively progressing Nexus an upcoming project. I allocate dedicated, highly focused daily blocks for its progression.</li>
-        <li>✍️ Committed to security awareness, I publish detailed research, tool deep dives, and analysis on both Medium and Hashnode. Check out my latest work.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBzOGtjb2FtMTh2cG9ncGU4ZjVqNzI3NDBpbXg0ZXY4cGh3ZmV4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRbqgK5udZevNE4/giphy.gif" alt="Hacker GIF" />
-    </td>
-  </tr>
-</table>
 
 <br>
 
