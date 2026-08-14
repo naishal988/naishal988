@@ -1,52 +1,37 @@
 <!-- naishal988 / README.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20Cyber%20Lab%20👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=I'm%20Naishal%20Nadiya&descAlignY=51&descAlign=62"/>
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Student;Python+%26+C+Programmer;Security+Researcher+%26+Blogger;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=B.Tech+Cybersecurity+Researcher;AI+Driven+Threat+Hunter;Python+%26+C+Backend+Architect;Open-Source+Advocate" alt="Typing SVG" />
 </h3>
 
 <br>
 
-<!-- About Me with Clean Card Layout -->
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="70%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 B.Tech Student specializing in <strong>Cybersecurity</strong></li>
-        <li>💻 <strong>Backend Developer</strong> focusing on secure and scalable architecture</li>
-        <li>🐧 Daily driving <strong>Linux Mint Cinnamon</strong> and optimizing system-level workflows</li>
-        <li>🐍 Coding primarily in <strong>Python & C</strong></li>
-        <li>✍️ Committed to security awareness, publishing research and tool deep-dives on <strong>Medium</strong> & <strong>Hashnode</strong></li>
-        <li>📫 Reach me at: <strong><a href="mailto:naishalpnadiya988@gmail.com">naishalpnadiya988@gmail.com</a></strong></li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBzOGtjb2FtMTh2cG9ncGU4ZjVqNzI3NDBpbXg0ZXY4cGh3ZmV4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRbqgK5udZevNE4/giphy.gif" alt="Hacker GIF" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>⚡ About The Developer</h3>
+  <p>I build secure, scalable systems at the intersection of AI and Cybersecurity. Currently deep-diving into Zero-Knowledge architecture and hardening browser-level security.</p>
+</div>
 
 <br>
 
-<!-- Featured Projects Structured like Sruthika's -->
+<!-- Featured Projects -->
 <div align="center">
-  <h3>🚀 Major Initiatives & Projects</h3>
+  <h3>🚀 Flagship Initiatives</h3>
   <table width="100%">
     <tr>
       <td valign="top" width="50%">
-        <h4>🛡️ PhishGuard ZK</h4>
-        <p>A joint engineering effort developed to detect sophisticated phishing domains and enhance proactive threat intelligence.</p>
-        <p><strong>👨‍💻 My Role:</strong> Backend Developer</p>
-        <p><strong>🤝 Co-Developer:</strong> Sruthika (Frontend)</p>
+        <h4>🛡️ PhishGuard ZK (Extension & Web)</h4>
+        <p>A multi-layered phishing detection engine. Now featuring a <b>Zero-Knowledge Browser Extension</b> that neutralizes zero-day threats in real-time.</p>
+        <p><strong>👨‍💻 Lead Full-Stack Dev:</strong> Naishal Nadiya</p>
+        <p><strong>🎨 UI Contributor:</strong> Sruthika Ramawat</p>
       </td>
       <td valign="top" width="50%">
-        <h4><img src="logo.png" height="40" alt="Nexus Logo" style="vertical-align: middle;"/> Nexus</h4>
-        <p>A premium, minimal, and highly intuitive document creation app heavily inspired by Apple Pages. Designed as a top-tier freeware alternative to compete with major word processors.</p>
-        <p><strong>👨‍💻 My Role:</strong> Founder & Lead Dev (In Partnership with Sruthika)</p>
-        <p><strong>🔒 Status:</strong> Active Development (Closed-Source Freeware)</p>
+        <h4>🚀 Nexus App</h4>
+        <p>A premium, minimalist document creation ecosystem designed for professional workflows. A freeware alternative built with precision.</p>
+        <p><strong>👨‍💻 Founder & Lead Dev:</strong> Naishal Nadiya</p>
+        <p><strong>🤝 UI Contributor:</strong> Sruthika Ramawat</p>
       </td>
     </tr>
   </table>
@@ -55,52 +40,33 @@
 <br>
 
 <div align="left">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="kali-logo.png" height="35" alt="kali linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+  <h3>🛠️ Core Tech Stack</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naishal988&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+  <h3>📊 GitHub Contribution Heatmap</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naishal988&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
 
-<div align="left">
+<div align="center">
   <h3>📫 Let's Connect</h3>
-  <a href="https://in.linkedin.com/in/naishal-nadiya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:naishalpnadiya988@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://naishal988.medium.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-  <a href="https://www.youtube.com/@THENAISHAL988" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/naishalcybersec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/uA2CybXx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  <a href="https://in.linkedin.com/in/naishal-nadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:naishalpnadiya988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://naishal988.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
+  <a href="https://www.youtube.com/@THENAISHAL988"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/naishal988/naishal988/snake-output/snake.svg?theme=dracula" alt="Snake animation" />
