@@ -25,13 +25,34 @@
         <h4>🛡️ PhishGuard ZK (Extension & Web)</h4>
         <p>A multi-layered phishing detection engine. Now featuring a <b>Zero-Knowledge Browser Extension</b> that neutralizes zero-day threats in real-time.</p>
         <p><strong>👨‍💻 Lead Full-Stack Dev:</strong> Naishal Nadiya</p>
-        <p><strong>🎨 UI Contributor:</strong> Sruthika Ramawat</p>
+        <p><strong>🎨 Partner & UI Contributor:</strong> Sruthika Ramawat</p>
       </td>
       <td valign="top" width="50%">
-        <h4>🚀 Nexus App</h4>
-        <p>A premium, minimalist document creation ecosystem designed for professional workflows. A freeware alternative built with precision.</p>
-        <p><strong>👨‍💻 Founder & Lead Dev:</strong> Naishal Nadiya</p>
-        <p><strong>🤝 UI Contributor:</strong> Sruthika Ramawat</p>
+        <h4>🌌 Nexus</h4>
+        <p>A modular technical framework focused on scalable backend architectures, automated workflows, and integrating secure development practices.</p>
+        <p><strong>👨‍💻 Backend Architect:</strong> Naishal Nadiya</p>
+        <p><strong>🤝 QA & Logic Partner:</strong> Sruthika Ramawat</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Interactive Portfolios Section -->
+<div align="center">
+  <h3>🌐 Interactive Portfolios</h3>
+  <table width="100%">
+    <tr>
+      <td valign="top" width="50%">
+        <h4>🖥️ macOS Web Experience</h4>
+        <p>A seamless, high-performance web portfolio replicating the macOS desktop environment. Built to showcase advanced frontend logic and UI/UX design.</p>
+        <a href="YOUR_MACOS_LINK_HERE"><img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+      </td>
+      <td valign="top" width="50%">
+        <h4>📟 Cyber Terminal UI</h4>
+        <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my cybersecurity skills and projects.</p>
+        <a href="YOUR_CYBER_LINK_HERE"><img src="https://img.shields.io/badge/Enter_Terminal-0E75B6?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
       </td>
     </tr>
   </table>
@@ -47,13 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 GitHub Contribution Heatmap</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naishal988&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
