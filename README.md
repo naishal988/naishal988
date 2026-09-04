@@ -23,15 +23,15 @@
     <tr>
       <td valign="top" width="50%">
         <h4>🛡️ PhishGuard ZK (Extension & Web)</h4>
-        <p>A multi-layered phishing detection engine. Now featuring a <b>Zero-Knowledge Browser Extension</b> that neutralizes zero-day threats in real-time.</p>
+        <p>A multi-layered phishing detection engine featuring a Zero-Knowledge Browser Extension that neutralizes zero-day threats in real-time.</p>
         <p><strong>👨‍💻 Lead Full-Stack Dev:</strong> Naishal Nadiya</p>
-        <p><strong>🎨 Partner & UI Contributor:</strong> Sruthika Ramawat</p>
+        <p><strong>🎨 Lead Designer & Partner:</strong> Sruthika Ramawat</p>
       </td>
       <td valign="top" width="50%">
         <h4>🌌 Nexus</h4>
-        <p>A modular technical framework focused on scalable backend architectures, automated workflows, and integrating secure development practices.</p>
-        <p><strong>👨‍💻 Backend Architect:</strong> Naishal Nadiya</p>
-        <p><strong>🤝 QA & Logic Partner:</strong> Sruthika Ramawat</p>
+        <p><i>Development in process...</i></p>
+        <p><strong>👨‍💻 Developer:</strong> Naishal Nadiya</p>
+        <p><strong>🤝 In Partnership with:</strong> Sruthika Ramawat</p>
       </td>
     </tr>
   </table>
