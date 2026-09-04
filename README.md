@@ -47,12 +47,12 @@
       <td valign="top" width="50%">
         <h4>🖥️ macOS Web Experience</h4>
         <p>A seamless, high-performance web portfolio replicating the macOS desktop environment. Built to showcase advanced frontend logic and UI/UX design.</p>
-        <a href="YOUR_MACOS_LINK_HERE"><img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+        <a href="https://naishal988.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
       </td>
       <td valign="top" width="50%">
         <h4>📟 Cyber Terminal UI</h4>
         <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my cybersecurity skills and projects.</p>
-        <a href="YOUR_CYBER_LINK_HERE"><img src="https://img.shields.io/badge/Enter_Terminal-0E75B6?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+        <a href="https://naishal-988.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Enter_Terminal-0E75B6?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
       </td>
     </tr>
   </table>
