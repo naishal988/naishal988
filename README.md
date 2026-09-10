@@ -18,7 +18,7 @@
 
 <!-- Featured Projects -->
 <div align="center">
-  <h3>🚀 Flagship Initiatives & Backend Architecture</h3>
+  <h3>🚀 Flagship Initiatives</h3>
   <table width="100%">
     <tr>
       <td valign="top" width="50%">
@@ -28,9 +28,10 @@
         <p><strong>🎨 Lead Designer & Partner:</strong> Sruthika Ramawat</p>
       </td>
       <td valign="top" width="50%">
-        <h4>🤖 Automated IG Response Engine</h4>
-        <p>A custom backend webhook system built with Python and the Flask framework to handle developer payloads and trigger automated messaging sequences.</p>
+        <h4>🌌 Nexus</h4>
+        <p><i>Development in process...</i></p>
         <p><strong>👨‍💻 Developer:</strong> Naishal Nadiya</p>
+        <p><strong>🤝 In Partnership with:</strong> Sruthika Ramawat</p>
       </td>
     </tr>
   </table>
