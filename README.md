@@ -33,7 +33,7 @@
         <h4>🌌 Nexus Ecosystem</h4>
         <p>A collaborative tech initiative focusing on innovative solutions, robust architecture, and next-gen tools.</p>
         <hr>
-        <h5>✨ <a href="https://github.com/naishal988/nexora-backend">Nexora (EduNova AI)</a></h5>
+        <h5>✨ <a href="https://github.com/naishal988/nexora-backend">Nexora</a></h5>
         <p><strong>Status:</strong> Live & Deployed</p>
         <p>An elite, highly interactive Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). Features a custom Apple-style Liquid Glass UI, multi-thread local storage memory, and a secure, decoupled Python/Flask backend integrated with the Groq API.</p>
         <p><i>Developed for the Next Gen Chatbot Arena Hackathon.</i></p>
