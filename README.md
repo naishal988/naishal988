@@ -21,21 +21,30 @@
   <h3>🚀 Flagship Initiatives</h3>
   <table width="100%">
     <tr>
+      <!-- Column 1: PhishGuard ZK -->
       <td valign="top" width="50%">
         <h4>🛡️ PhishGuard ZK (Extension & Web)</h4>
         <p>A multi-layered phishing detection engine featuring a Zero-Knowledge Browser Extension that neutralizes zero-day threats in real-time.</p>
         <p><strong>👨‍💻 Lead Full-Stack Dev:</strong> Naishal Nadiya</p>
         <p><strong>🎨 Lead Designer & Partner:</strong> Sruthika Ramawat</p>
       </td>
+      <!-- Column 2: Nexus Ecosystem -->
       <td valign="top" width="50%">
-        <h4>🌌 Nexus</h4>
-        <p><i>Development in process...</i></p>
-        <p><strong>👨‍💻 Developer:</strong> Naishal Nadiya</p>
+        <h4>🌌 Nexus Ecosystem</h4>
+        <p>A collaborative tech initiative focusing on innovative solutions, robust architecture, and next-gen tools.</p>
+        <hr>
+        <h5>✨ <a href="https://github.com/naishal988/nexora-backend">Nexora (EduNova AI)</a></h5>
+        <p><strong>Status:</strong> Live & Deployed</p>
+        <p>An elite, highly interactive Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). Features a custom Apple-style Liquid Glass UI, multi-thread local storage memory, and a secure, decoupled Python/Flask backend integrated with the Groq API.</p>
+        <p><i>Developed for the Next Gen Chatbot Arena Hackathon.</i></p>
+        <hr>
+        <p><strong>👨‍💻 Developer / Architect:</strong> Naishal Nadiya</p>
         <p><strong>🤝 In Partnership with:</strong> Sruthika Ramawat</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
