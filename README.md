@@ -85,7 +85,7 @@
 
 <div align="center">
   <h3>✍️ Technical Writing & Content</h3>
-  <p>Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle <b>naishalcybersec</b> across Medium, Blogger, and Hashnode.</p>
+  <p>Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle <b>naishal988</b> across Medium, Blogger, and Hashnode.</p>
 </div>
 
 <br>
