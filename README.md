@@ -32,11 +32,12 @@
       <td valign="top" width="50%">
         <h4>🌌 Nexus Ecosystem</h4>
         <p>A collaborative tech initiative focusing on innovative solutions, robust architecture, and next-gen tools.</p>
-        <hr>
-        <h5>✨ <a href="https://nexora.naishalpnadiya988.workers.dev/">Nexora</a></h5>
+        <hr><h5>✨ <a href="https://nexora.naishalpnadiya988.workers.dev/">Nexora</a></h5>
         <p><strong>Status:</strong> Live & Deployed</p>
         <p>An elite, highly interactive Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). Features a custom Apple-style Liquid Glass UI, multi-thread local storage memory, and a secure, decoupled Python/Flask backend integrated with the Groq API.</p>
         <p><i>Developed for the Next Gen Chatbot Arena Hackathon.</i></p>
+        <br>
+        <a href="https://nexora.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Launch_Nexora-0052CC?style=for-the-badge&logo=rocket&logoColor=white"/></a>
         <hr>
         <p><strong>👨‍💻 Developer / Architect:</strong> Naishal Nadiya</p>
         <p><strong>🤝 In Partnership with:</strong> Sruthika Ramawat</p>
@@ -76,6 +77,16 @@
         <h4>📟 Cyber Terminal UI</h4>
         <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my skills.</p>
         <a href="https://naishal-988.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Enter_Terminal-0E75B6?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h4>🎵 Sithira Puthiri Cinematic UI</h4>
+        <p>A next-level music experience featuring advanced liquid glassmorphism, precise HTML5 audio seeking logic, and perfectly synchronized LRC lyrics.</p>
+        <a href="https://sithira-puthiri.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Experience_Now-8A2BE2?style=for-the-badge&logo=musicbrainz&logoColor=white"/></a>
+      </td>
+      <td valign="top" width="50%">
+        <!-- Khali space future projects ke liye -->
       </td>
     </tr>
   </table>
