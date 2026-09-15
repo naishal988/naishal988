@@ -71,7 +71,7 @@
       <td valign="top" width="50%">
         <h4>🖥️ macOS Web Experience</h4>
         <p>A seamless, high-performance web portfolio replicating the macOS desktop environment to showcase advanced frontend logic.</p>
-        <a href="https://naishal988.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+        <a href="https://macos.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
       </td>
       <td valign="top" width="50%">
         <h4>📟 Cyber Terminal UI</h4>
@@ -119,7 +119,7 @@
   <a href="https://in.linkedin.com/in/naishal-nadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:naishalpnadiya988@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://naishal988.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
-  <a href="https://www.youtube.com/@THENAISHAL988"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@naishalyt988"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
 <br>
