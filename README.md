@@ -37,7 +37,7 @@
         <p>An elite, highly interactive Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). Features a custom Apple-style Liquid Glass UI, multi-thread local storage memory, and a secure, decoupled Python/Flask backend integrated with the Groq API.</p>
         <p><i>Developed for the Next Gen Chatbot Arena Hackathon.</i></p>
         <br>
-        <a href="#"><img src="https://img.shields.io/badge/Launch_Nexora-0052CC?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+        <a href="https://nexora.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Launch_Nexora-0052CC?style=for-the-badge&logo=rocket&logoColor=white"/></a>
         <hr>
         <p><strong>👨‍💻 Developer / Architect:</strong> Naishal Nadiya</p>
         <p><strong>🤝 In Partnership with:</strong> Sruthika Ramawat</p>
