@@ -77,6 +77,10 @@ A dedicated collaborative software initiative co-founded with my partner, Sruthi
         <li>👨‍💻 <b>Lead Full-Stack Dev:</b> Naishal Nadiya</li>
         <li>🎨 <b>Lead Designer & Partner:</b> Sruthika Ramawat</li>
       </ul>
+      <br>
+      <a href="https://phishguard-ns.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_PhishGuard-1D4ED8?style=for-the-badge&logo=shield&logoColor=white" alt="Launch PhishGuard">
+      </a>
     </td>
   </tr>
 </table>
