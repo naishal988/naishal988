@@ -43,37 +43,12 @@ A multi-layered phishing detection engine featuring a Zero-Knowledge Browser Ext
 - 🎨 **Lead Designer & Partner:** Sruthika Ramawat
 
 ### 🌌 Nexus Ecosystem
-A collaborative tech initiative focusing on innovative solutions, robust architecture, and next-gen tools.
+A dedicated collaborative software initiative co-founded with my partner, Sruthika. I architected and developed the core Nexus website to serve as the central hub for our joint ventures. 
+**Upcoming Project:** A Next-Gen File Converter App (Ad-free, premium, secure). For this project, we are swapping roles for self-growth: I will be leading the UI/UX and advanced frontend animations, while Sruthika steps up as the Lead Backend Developer to handle the core processing logic and architecture.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌌 Nexus</h3>
-      <p><em>Status: Live & Deployed</em></p>
-      <p>A collaborative tech initiative where Sruthika and I will build future projects together. The Nexus platform and website architecture was developed entirely by me.</p>
-      <ul>
-        <li>👨‍💻 <b>Developer:</b> Naishal Nadiya</li>
-      </ul>
-      <br>
-      <a href="https://nexus.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ Nexora</h3>
-      <p><em>Status: Live & Deployed</em></p>
-      <p>A Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). It features local storage memory and a decoupled Python/Flask backend.</p>
-      <br>
-      <ul>
-        <li>👨‍💻 <b>Full-Stack Developer:</b> Naishal Nadiya</li>
-      </ul>
-      <br>
-      <a href="https://nexora.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Nexora-34C759?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexora">
-      </a>
-    </td>
-  </tr>
-</table>
+<br>
+
+<a href="https://nexus.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus"></a>
 
 ---
 
@@ -84,7 +59,7 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   <tr>
     <td width="50%" valign="top">
       <h3>👨‍💻 Main Portfolio Website</h3>
-      <p>My central developer portfolio showcasing my skills, projects, and systems architecture experience.</p>
+      <p>My central developer portfolio featuring custom 3D web elements, smooth GSAP animations, and a highly optimized dark-mode UI.</p>
       <br>
       <a href="https://naishal988.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Portfolio-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Portfolio">
@@ -92,7 +67,7 @@ Crafting unique UI/UX experiences across different themes and functionalities.
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ macOS Web Experience</h3>
-      <p>A seamless, high-performance web portfolio replicating the macOS desktop environment to showcase advanced frontend logic.</p>
+      <p>A high-performance web clone of the macOS desktop environment, demonstrating advanced DOM window management and liquid glassmorphism.</p>
       <br>
       <a href="https://macos.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_macOS_Web-0071E3?style=for-the-badge&logo=apple&logoColor=white" alt="Launch macOS Web Experience">
@@ -102,7 +77,7 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   <tr>
     <td width="50%" valign="top">
       <h3>📟 Cyber Terminal UI</h3>
-      <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my skills.</p>
+      <p>An immersive command-line themed portfolio tailored for cybersecurity enthusiasts, complete with interactive commands and hacker aesthetics.</p>
       <br>
       <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Terminal-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Launch Cyber Terminal">
@@ -110,7 +85,7 @@ Crafting unique UI/UX experiences across different themes and functionalities.
     </td>
     <td width="50%" valign="top">
       <h3>🌾 Pongal Festival Showcase</h3>
-      <p>A vibrant, culturally inspired website celebrating the Pongal festival with interactive frontend elements and festive design.</p>
+      <p>A culturally vibrant landing page engineered with scroll-triggered animations and dynamic, festive web elements.</p>
       <br>
       <a href="https://pongal.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Showcase-F59E0B?style=for-the-badge&logo=sparkles&logoColor=white" alt="Launch Pongal Festival">
@@ -120,14 +95,14 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Sithira Puthiri Cinematic UI</h3>
-      <p>A next-level music experience featuring advanced liquid glassmorphism, precise HTML5 audio seeking logic, and perfectly synchronized LRC lyrics.</p>
+      <p>A liquid glassmorphism music player featuring precise HTML5 audio seeking logic and perfectly synchronized LRC lyrics parsing.</p>
       <a href="https://sithira-puthiri.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Cinematic_UI-8B5CF6?style=for-the-badge&logo=apple-music&logoColor=white" alt="Launch Sithira Puthiri">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎵 Akhiyaan Gulaab Music UI</h3>
-      <p>A custom-built, immersive web music player featuring sleek playback controls, synced lyrics, and cinematic visuals.</p>
+      <p>A custom-built immersive web visualizer featuring sleek playback controls, synced lyrics, and cinematic UI styling.</p>
       <br>
       <a href="https://akhiyaan-gulaab.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Music_UI-FA2D48?style=for-the-badge&logo=apple-music&logoColor=white" alt="Launch Akhiyaan Gulaab">
@@ -135,6 +110,15 @@ Crafting unique UI/UX experiences across different themes and functionalities.
     </td>
   </tr>
 </table>
+
+---
+
+## 🌳 Kalpvruksh Event
+
+### ✨ Nexora
+A Socratic AI Learning Tutor built for the Next Gen Chatbot Arena. Features local storage memory and a decoupled Python/Flask backend.
+
+<a href="https://nexora.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Launch_Nexora-34C759?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexora"></a>
 
 ---
 
@@ -147,7 +131,7 @@ Authoring deep dives into digital security, exposing phishing scams, and discuss
 
 ## 🛠️ Core Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,linux,flask,js,html,css&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,c,linux,flask,js,html,css,tailwind,threejs,cloudflare,github,vscode&perline=10" alt="tech stack">
 
 </div>
 
