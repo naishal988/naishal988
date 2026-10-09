@@ -35,20 +35,51 @@ I build secure, scalable systems at the intersection of **Cybersecurity**, **AI*
 
 ---
 
-## 🚀 Flagship Initiatives
+## 🌌 Nexus Ecosystem
+A dedicated collaborative software initiative co-founded with my partner, Sruthika, serving as the central hub for our joint ventures.
 
-### 🛡️ PhishGuard ZK (Extension & Web)
-A multi-layered phishing detection engine featuring a Zero-Knowledge Browser Extension that neutralizes zero-day threats in real-time.
-- 👨‍💻 **Lead Full-Stack Dev:** Naishal Nadiya
-- 🎨 **Lead Designer & Partner:** Sruthika Ramawat
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 Nexus Hub</h3>
+      <p>I architected and developed the core Nexus website to serve as the central portfolio and launchpad for our collaborative projects.</p>
+      <br>
+      <ul>
+        <li>👨‍💻 <b>Lead Developer:</b> Naishal Nadiya</li>
+      </ul>
+      <br>
+      <a href="https://nexus.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 Next-Gen File Converter</h3>
+      <p><em>Status: Upcoming Project</em></p>
+      <p>An ad-free, premium, and secure app. We are swapping roles for self-growth: I am leading UI/UX & frontend animations, while Sruthika leads the core backend logic and architecture.</p>
+      <ul>
+        <li>🎨 <b>Lead Frontend / UI:</b> Naishal Nadiya</li>
+        <li>⚙️ <b>Lead Backend:</b> Sruthika Ramawat</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🌌 Nexus Ecosystem
-A dedicated collaborative software initiative co-founded with my partner, Sruthika. I architected and developed the core Nexus website to serve as the central hub for our joint ventures. 
-**Upcoming Project:** A Next-Gen File Converter App (Ad-free, premium, secure). For this project, we are swapping roles for self-growth: I will be leading the UI/UX and advanced frontend animations, while Sruthika steps up as the Lead Backend Developer to handle the core processing logic and architecture.
+---
 
-<br>
+## 🏆 Hackathons & Innovations
 
-<a href="https://nexus.naishalpnadiya988.workers.dev/"><img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus"></a>
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🛡️ PhishGuard ZK (Extension & Web)</h3>
+      <p>A multi-layered phishing detection engine featuring a Zero-Knowledge Browser Extension that neutralizes zero-day threats in real-time.</p>
+      <ul>
+        <li>👨‍💻 <b>Lead Full-Stack Dev:</b> Naishal Nadiya</li>
+        <li>🎨 <b>Lead Designer & Partner:</b> Sruthika Ramawat</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
