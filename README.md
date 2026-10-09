@@ -48,30 +48,28 @@ A collaborative tech initiative focusing on innovative solutions, robust archite
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ Nexora</h3>
-      <p><em>Status: Live & Deployed</em></p>
-      <p>An elite, highly interactive Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). Features a custom Apple-style Liquid Glass UI, multi-thread local storage memory, and a secure, decoupled Python/Flask backend integrated with the Groq API.</p>
-      <blockquote>Developed for the Next Gen Chatbot Arena Hackathon.</blockquote>
-      <ul>
-        <li>👨‍💻 <b>Developer / Architect:</b> Naishal Nadiya</li>
-        <li>🤝 <b>In Partnership with:</b> Sruthika Ramawat</li>
-      </ul>
-      <a href="https://nexora.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Nexora-34C759?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexora">
-      </a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌌 Nexus</h3>
       <p><em>Status: Live & Deployed</em></p>
-      <p>An elite engineering & design collective focusing on robust system architecture, high-performance APIs, and next-gen immersive frontend experiences.</p>
-      <br>
+      <p>A collaborative tech initiative where Sruthika and I will build future projects together. The Nexus platform and website architecture was developed entirely by me.</p>
       <ul>
-        <li>👨‍💻 <b>System Architect & Dev:</b> Naishal Nadiya</li>
-        <li>🎨 <b>Lead Designer & UI/UX:</b> Sruthika Ramawat</li>
+        <li>👨‍💻 <b>Developer:</b> Naishal Nadiya</li>
       </ul>
       <br>
       <a href="https://nexus.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Nexora</h3>
+      <p><em>Status: Live & Deployed</em></p>
+      <p>A Socratic AI Learning Tutor built to address UN SDG 4 (Quality Education). It features local storage memory and a decoupled Python/Flask backend.</p>
+      <br>
+      <ul>
+        <li>👨‍💻 <b>Full-Stack Developer:</b> Naishal Nadiya</li>
+      </ul>
+      <br>
+      <a href="https://nexora.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_Nexora-34C759?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexora">
       </a>
     </td>
   </tr>
@@ -85,11 +83,29 @@ Crafting unique UI/UX experiences across different themes and functionalities.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 Akhiyaan Gulaab Music UI</h3>
-      <p>A custom-built, immersive web music player featuring sleek playback controls, synced lyrics, and cinematic visuals.</p>
+      <h3>👨‍💻 Main Portfolio Website</h3>
+      <p>My central developer portfolio showcasing my skills, projects, and systems architecture experience.</p>
       <br>
-      <a href="https://akhiyaan-gulaab.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Music_UI-FA2D48?style=for-the-badge&logo=apple-music&logoColor=white" alt="Launch Akhiyaan Gulaab">
+      <a href="https://naishal988.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_Portfolio-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Portfolio">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ macOS Web Experience</h3>
+      <p>A seamless, high-performance web portfolio replicating the macOS desktop environment to showcase advanced frontend logic.</p>
+      <br>
+      <a href="https://macos.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_macOS_Web-0071E3?style=for-the-badge&logo=apple&logoColor=white" alt="Launch macOS Web Experience">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 Cyber Terminal UI</h3>
+      <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my skills.</p>
+      <br>
+      <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_Terminal-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Launch Cyber Terminal">
       </a>
     </td>
     <td width="50%" valign="top">
@@ -103,24 +119,6 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ macOS Web Experience</h3>
-      <p>A seamless, high-performance web portfolio replicating the macOS desktop environment to showcase advanced frontend logic.</p>
-      <br>
-      <a href="https://macos.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_macOS_Web-0071E3?style=for-the-badge&logo=apple&logoColor=white" alt="Launch macOS Web Experience">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📟 Cyber Terminal UI</h3>
-      <p>An immersive command-line interface web portfolio featuring hacker aesthetics. Type commands to explore my skills.</p>
-      <br>
-      <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Terminal-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Launch Cyber Terminal">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🎵 Sithira Puthiri Cinematic UI</h3>
       <p>A next-level music experience featuring advanced liquid glassmorphism, precise HTML5 audio seeking logic, and perfectly synchronized LRC lyrics.</p>
       <a href="https://sithira-puthiri.naishalpnadiya988.workers.dev/">
@@ -128,7 +126,12 @@ Crafting unique UI/UX experiences across different themes and functionalities.
       </a>
     </td>
     <td width="50%" valign="top">
-      <!-- Empty cell for grid balance -->
+      <h3>🎵 Akhiyaan Gulaab Music UI</h3>
+      <p>A custom-built, immersive web music player featuring sleek playback controls, synced lyrics, and cinematic visuals.</p>
+      <br>
+      <a href="https://akhiyaan-gulaab.naishalpnadiya988.workers.dev/">
+        <img src="https://img.shields.io/badge/Launch_Music_UI-FA2D48?style=for-the-badge&logo=apple-music&logoColor=white" alt="Launch Akhiyaan Gulaab">
+      </a>
     </td>
   </tr>
 </table>
