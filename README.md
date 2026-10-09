@@ -18,8 +18,7 @@
 
 <!-- SOCIALS -->
 <a href="https://medium.com/@naishal988"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@naishal988"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>&nbsp;&nbsp;
-<a href="https://blogger.com/profile/naishal988"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+<a href="https://hashnode.com/@naishal988"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 
 <br>
 
@@ -31,7 +30,7 @@
 
 ## ⚡ About The Developer
 
-I build secure, scalable systems at the intersection of **Cybersecurity**, **AI**, and dynamic **Web Development**. Whether it's deep-diving into Zero-Knowledge architecture, configuring Linux environments, or designing immersive frontend experiences, I love bringing complex ideas to life.
+I build secure, scalable systems at the intersection of **Cybersecurity**, **AI**, and **Advanced Web Development**. While my core lies in Zero-Knowledge architecture and robust Linux backend environments, my true creative outlet is **Frontend Engineering**. I specialize in crafting high-performance, visually immersive web experiences—from engineering complex desktop web-clones (macOS) to designing liquid glassmorphism UIs, cinematic audio visualizers, and interactive hacker terminals. I love pushing the boundaries of DOM manipulation and modern UI/UX to bring complex ideas to life.
 
 ---
 
@@ -158,7 +157,7 @@ A Socratic AI Learning Tutor built for the Next Gen Chatbot Arena. Features loca
 ---
 
 ## ✍️ Technical Writing & Content
-Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle **naishal988** across Medium, Blogger, and Hashnode.
+Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle **naishal988** across Medium and Hashnode.
 
 ---
 
