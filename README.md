@@ -30,7 +30,7 @@
 
 ## ⚡ About The Developer
 
-I build secure, scalable systems at the intersection of **Cybersecurity**, **AI**, and **Advanced Web Development**. While my core lies in Zero-Knowledge architecture and robust Linux backend environments, my true creative outlet is **Frontend Engineering**. I specialize in crafting high-performance, visually immersive web experiences—from engineering complex desktop web-clones (macOS) to designing liquid glassmorphism UIs, cinematic audio visualizers, and interactive hacker terminals. I love pushing the boundaries of DOM manipulation and modern UI/UX to bring complex ideas to life.
+I build secure, scalable systems at the intersection of **Cybersecurity**, **AI**, and **Advanced Web Development**. While my core lies in Zero-Knowledge architecture and robust Linux backend environments, my true creative outlet is **Frontend Engineering**. I specialize in crafting high-performance, visually immersive web experiences—from architecting full-fledged Web Desktop Operating Systems (macOS Golden Gate) to designing liquid glassmorphism UIs, cinematic audio visualizers, and interactive hacker terminals. I love pushing the boundaries of DOM manipulation and modern UI/UX to bring complex ideas to life.
 
 ---
 
@@ -100,11 +100,11 @@ Crafting unique UI/UX experiences across different themes and functionalities.
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🖥️ macOS Web Experience</h3>
-      <p>A high-performance web clone of the macOS desktop environment, demonstrating advanced DOM window management and liquid glassmorphism.</p>
+      <h3> macOS Golden Gate (WebOS)</h3>
+      <p>A high-fidelity, architecture-grade Web Desktop Operating System built with React, TypeScript & Vite. Features full window lifecycle management, Mission Control multitasking, MediaPipe Vision AI gestures in FaceTime, and GPU-composited liquid glassmorphism.</p>
       <br>
       <a href="https://macos.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_macOS_Web-0071E3?style=for-the-badge&logo=apple&logoColor=white" alt="Launch macOS Web Experience">
+        <img src="https://img.shields.io/badge/Launch_macOS_Golden_Gate-0071E3?style=for-the-badge&logo=apple&logoColor=white" alt="Launch macOS Golden Gate">
       </a>
     </td>
   </tr>
