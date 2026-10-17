@@ -63,7 +63,7 @@ A dedicated collaborative software initiative co-founded with my partner, Sruthi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 Nexus Editor (Pages Clone)</h3>
+      <h3>📄 Nexus Editor</h3>
       <p><em>Status: In Active Development</em></p>
       <p>A sleek, privacy-first open-source document editor inspired by Apple Pages. Features a clean A4 canvas, rich text formatting, and a distraction-free writing environment built for speed.</p>
       <ul>
