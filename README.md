@@ -68,7 +68,7 @@ A dedicated collaborative software initiative co-founded with my partner, Sruthi
       <p>A sleek, privacy-first open-source document editor inspired by Apple Pages. Features a clean A4 canvas, rich text formatting, and a distraction-free writing environment built for speed.</p>
       <ul>
         <li>🎨 <b>Lead UI & Frontend Architecture:</b> Naishal Nadiya</li>
-        <li>🤝 <b>Collaborative Partner:</b> Sruthika Ramawat</li>
+        <li>🤝 <b>Testing Developer:</b> Sruthika Ramawat</li>
       </ul>
     </td>
     <td width="50%" valign="top">
