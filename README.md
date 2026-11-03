@@ -39,7 +39,7 @@ A dedicated collaborative software initiative co-founded with my partner, Sruthi
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🌌 Nexus Hub</h3>
       <p>I architected and developed the core Nexus website to serve as the central portfolio and launchpad for our collaborative projects.</p>
       <br>
@@ -51,27 +51,6 @@ A dedicated collaborative software initiative co-founded with my partner, Sruthi
         <img src="https://img.shields.io/badge/Launch_Nexus-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Nexus">
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔄 Next-Gen File Converter</h3>
-      <p><em>Status: Upcoming Project</em></p>
-      <p>An ad-free, premium, and secure app. We are swapping roles for self-growth: I am leading UI/UX & frontend animations, while Sruthika leads the core backend logic and architecture.</p>
-      <ul>
-        <li>🎨 <b>Lead Frontend / UI:</b> Naishal Nadiya</li>
-        <li>⚙️ <b>Lead Backend:</b> Sruthika Ramawat</li>
-      </ul>
-      </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Nexus Editor</h3>
-      <p><em>Status: In Active Development</em></p>
-      <p>A sleek, privacy-first open-source document editor inspired by Apple Pages. Features a clean A4 canvas, rich text formatting, and a distraction-free writing environment built for speed.</p>
-      <ul>
-        <li>🎨 <b>Lead UI & Frontend Architecture:</b> Naishal Nadiya</li>
-        <li>🤝 <b>Testing Developer:</b> Sruthika Ramawat</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
   </tr>
 </table>
 
