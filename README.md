@@ -102,10 +102,10 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   <tr>
     <td width="50%" valign="top">
       <h3>📟 Cyber Terminal UI</h3>
-      <p>An immersive command-line themed portfolio tailored for cybersecurity enthusiasts, complete with interactive commands and hacker aesthetics.</p>
+      <p>A next-generation 3D interactive portfolio. Built with React Three Fiber, it replaces the traditional hacker terminal with a premium, tactile hardware environment tailored for advanced cybersecurity research and system architecture.</p>
       <br>
       <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Launch_Terminal-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Launch Cyber Terminal">
+        <img src="https://img.shields.io/badge/Launch_Terminal-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Boot 3D Workstation ⏻">
       </a>
     </td>
     <td width="50%" valign="top">
