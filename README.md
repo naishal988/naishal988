@@ -101,11 +101,11 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📟 Cyber Terminal UI</h3>
-      <p>A next-generation 3D interactive portfolio. Built with React Three Fiber, it replaces the traditional hacker terminal with a premium, tactile hardware environment tailored for advanced cybersecurity research and system architecture.</p>
+      <h3>📟 3D Cyber Workstation</h3>
+      <p>A next-generation 3D workstation. Replacing the traditional hacker terminal with a premium, hardware-integrated WebGL environment tailored for advanced cybersecurity research and system architecture.</p>
       <br>
       <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
-        <img src="https://img.shields.io/badge/Boot-3D-Workstation-⏻-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Boot 3D Workstation ⏻">
+        <img src="https://img.shields.io/badge/Boot_3D_Workstation_%E2%8F%BB-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Boot 3D Workstation ⏻">
       </a>
     </td>
     <td width="50%" valign="top">
