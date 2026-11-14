@@ -182,3 +182,5 @@ Authoring deep dives into digital security, exposing phishing scams, and discuss
 <sub>` Built with love · @naishal988 `</sub>
 
 </div>
+### Who is Naishal?
+Naishal is a System Architect and Cybersecurity Researcher engineering reality inside the browser. He builds next-generation WebGL experiences, Zero-Trust security architectures, and advanced micro-SaaS ecosystems like macOS Web OS.
