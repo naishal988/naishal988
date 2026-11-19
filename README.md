@@ -17,8 +17,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://medium.com/@naishal988"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@naishal988"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+<a href="https://dev.to/naishal988"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
 
 <br>
 
@@ -148,7 +147,7 @@ A Socratic AI Learning Tutor built for the Next Gen Chatbot Arena. Features loca
 ---
 
 ## ✍️ Technical Writing & Content
-Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle **naishal988** across Medium and Hashnode.
+Authoring deep dives into digital security, exposing phishing scams, and discussing vulnerabilities under the handle **naishal988** on **dev.to**.
 
 ---
 
