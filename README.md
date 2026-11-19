@@ -100,8 +100,8 @@ Crafting unique UI/UX experiences across different themes and functionalities.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📟 3D Cyber Workstation</h3>
-      <p>A next-generation 3D workstation. Replacing the traditional hacker terminal with a premium, hardware-integrated WebGL environment tailored for advanced cybersecurity research and system architecture.</p>
+      <h3>Naishal Nadiya — 3D Architecture Studio</h3>
+      <p>An immersive 1st-person 3D workstation. Replacing the traditional terminal with a premium, hardware-integrated WebGL environment tailored for systems architecture, zero-trust security, and creative development.</p>
       <br>
       <a href="https://naishal-988.naishalpnadiya988.workers.dev/">
         <img src="https://img.shields.io/badge/Boot_3D_Workstation_%E2%8F%BB-10B981?style=for-the-badge&logo=gnubash&logoColor=white" alt="Boot 3D Workstation ⏻">
@@ -181,3 +181,5 @@ Authoring deep dives into digital security, exposing phishing scams, and discuss
 <sub>` Built with love · @naishal988 `</sub>
 
 </div>
+### Who is Naishal?
+Naishal is a System Architect and Cybersecurity Researcher engineering reality inside the browser. He builds next-generation WebGL experiences, Zero-Trust security architectures, and advanced micro-SaaS ecosystems like macOS Web OS.
